@@ -1,7 +1,7 @@
 Exam Assignment ReadMe
 
-Name:
-Student ID:
+Name: David Mutascio
+Student ID: 473129
 
 ToDo: Record your answers to questions 1 and 2 here. Code should be written in list_assignment.cpp
 
